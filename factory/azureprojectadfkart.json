@@ -1,0 +1,9 @@
+{
+	"name": "azureprojectadfkart",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b917d404-33f3-4263-9abb-d9568277ed53",
+		"tenantId": "8c5b1b0c-932b-4726-a85d-e51bc419d9c3"
+	}
+}
